@@ -6,12 +6,18 @@ Color appGreyColor = Color.fromRGBO(64, 75, 96, .9);
 
 // Strings
 const appTitle = "Relaxing Pinao App";
+const userNameHintText = 'UserName';
+const EmailHintText = 'Email';
 const pinCodeHintText = "Pin Code";
 const loginButtonText = "Login";
 
 // Images
-Image appLogo = Image.asset('asset/images/flutter-logo-round.png');
+Image appLogo = Image.asset('assets/images/flutter-logo-round.png');
 
 // Sizes
-const bigRadius = 60.0;
+const bigRadius = 66.0;
 const buttonHeight = 24.0;
+
+// Pages
+const loginPageTag = 'Login Page';
+const homePageTag = 'Home Page';

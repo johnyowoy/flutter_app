@@ -1,0 +1,37 @@
+[
+  {
+    "name": "C. Bechstein",
+    "origin": "German",
+    "price": "C-Series: $119,000 - $320,000",
+    "photo": "assets/images/C.Bechstein.jpeg",
+    "url": "https://www.europianosnaples.com/the-top-10-best-piano-brands-in-the-world/"
+  },
+  {
+    "name": "Grotrian",
+    "origin": "German",
+    "price": "C-Series: $67,000 - $165,000",
+    "photo": "assets/images/Grotrian.png",
+    "url": "https://www.europianosnaples.com/the-top-10-best-piano-brands-in-the-world/"
+  },
+  {
+    "name": "Sauter",
+    "origin": "German",
+    "price": "$95,000 - $230,000",
+    "photo": "assets/images/Sauter.jpeg",
+    "url": "https://www.europianosnaples.com/the-top-10-best-piano-brands-in-the-world/"
+  },
+  {
+    "name": "Shigeru Kawai",
+    "origin": "European",
+    "price": "C-Series: $64,000 - $239,000",
+    "photo": "assets/images/ShigeruKawai.jpeg",
+    "url": "https://www.europianosnaples.com/the-top-10-best-piano-brands-in-the-world/"
+  },
+  {
+    "name": "Steinway",
+    "origin": "Germany",
+    "price": "C-Series: $66,000 - $215,000",
+    "photo": "assets/images/Steinway.png",
+    "url": "https://www.europianosnaples.com/the-top-10-best-piano-brands-in-the-world/"
+  }
+]
